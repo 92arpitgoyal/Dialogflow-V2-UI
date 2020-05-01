@@ -4,6 +4,6 @@ module.exports = {
         Debug: true
     },
     Dialogflow: {
-        KeyFilePath: '../../ally-key.json'
+        KeyFilePath: '../../cred.json'
     }
 };
